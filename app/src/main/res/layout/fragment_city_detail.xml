@@ -12,7 +12,8 @@
         android:layout_width="340dp"
         android:layout_height="300dp"
         android:layout_marginBottom="16dp"
-        android:scaleType="centerCrop" />
+        android:scaleType="centerCrop"
+        android:transitionName="sharedImage"/>
 
     <LinearLayout
         android:layout_width="match_parent"
